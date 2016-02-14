@@ -1,0 +1,29 @@
+Order#,"Item Code","Brand Code","Unit Price",Qty,Subtotal
+,,,,,,Date,"Invoice #"
+,,,,,,12/09/14,20141209-ship29
+"Spicy Herb, Inc./Shop LA Walker",,,,,,,"Reference #"
+"400 Corporate Pointe, #300",,,,,,,20141209-ship29
+"Culver City, CA 90230 USA",,,,,,,
+Phone:310-590-4579(USA),,,,,,,
+FAX:310-590-4577(USA),,,,,,,
+Phone:050-5539-9951(Japan),,,,,,,
+Fax:020-4667-9139(Japan),,,,,,,
+,,,,,,,
+"Bill To",,,,,"Ship To",,
+"Spicy Herb, Inc.",,,,,"Spicy Herb, Inc. C/O OTS",,
+"Tokyo to Taitouku Torigoe 1-2-3",,,,,"Tokyo to Edogawa-ku",,
+"111-0054 Japan",,,,,"Minamikasai 5-16-1",,
+03-3851-3333,,,,,"134-0085 Japan",,
+,,,,,03-5605-5511,,
+,,,,,,,
+,,,,,,,
+,,,,,,"SHIP DATE","Ship via"
+,,,,,,12/09/14,"Yamato AP"
+"Item #",Description,,,,Qty,Rate,Total
+Babydollship,"Apparel Sales",,,,1,$1569.67,$1569.67
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,,
+,,,,,,Total,$1569.67

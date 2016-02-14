@@ -1,0 +1,21 @@
+body {
+    background: url('../images/bk2.png');
+    -webkit-font-smoothing: antialiased;
+    color: white ;   
+}
+h1.header{
+	padding : 10px;
+}
+
+table#data_table {
+	color:black;
+	width:100%;
+}
+#table_div{
+	position : absolute;
+	right: 50px;
+	padding-left: 100px;
+	padding-right: 50px;
+}
+
+
